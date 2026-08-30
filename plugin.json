@@ -1,0 +1,21 @@
+{
+  "id": "com.koko.acodeactivity",
+  "name": "Acode Activity",
+  "main": "main.js",
+  "version": "1.0.0",
+  "readme": "readme.md",
+  "files": [
+    "main.js",
+    "readme.md",
+    "changelogs.md"
+  ],
+  "minVersionCode": 1002,
+  "price": 0,
+  "license": "MIT",
+  "keywords": [
+    "activity",
+    "discord",
+    "coding",
+    "presence"
+  ]
+}
